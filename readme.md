@@ -1,3 +1,3 @@
-# Git and Gith  ub training
+# Git and Github training
 
 Crach cource for Git
